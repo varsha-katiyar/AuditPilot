@@ -1,8 +1,8 @@
-# 🚀 Project Title: Autonomous Security Auditor Agentic AI
+# 🚀 Project Title: AuditPilot (Autonomous Security Auditor Agentic AI)
 
 ## 🧠 Project Description
 
-**Autonomous Security Auditor Agentic AI** is a cutting-edge solution that transforms how enterprises audit and secure their APIs on **Kong API Gateway** and **Kong AI Gateway**. By combining **Agentic AI workflows**, **LLMs**, and **Kong’s intelligent plugins**, this tool autonomously audits API configurations against enterprise security policies and enables one-click remediation—empowering teams to maintain compliance effortlessly.
+** AuditPilot (Autonomous Security Auditor Agentic AI)** is a cutting-edge solution that transforms how enterprises audit and secure their APIs on **Kong API Gateway** and **Kong AI Gateway**. By combining **Agentic AI workflows**, **LLMs**, and **Kong’s intelligent plugins**, this tool autonomously audits API configurations against enterprise security policies and enables one-click remediation—empowering teams to maintain compliance effortlessly.
 
 ## 🔍 What Problem Does It Solve?
 
