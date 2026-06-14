@@ -51,7 +51,7 @@ Kong AI Gateway is the **intelligence engine** behind this solution. With featur
 
 The solution is organized into two major components: the **Agentic AI Application** (UI, Kong API Gateway, LangGraph-based multi-agent backend) and the **RAG Pipeline** (Kong AI Gateway, embeddings, vector DB, and LLMs).
 
-![High Level Design](images/high level design.jpg)
+![High Level Design](images/high_level_design.jpg)
 
 - **Agentic AI Application**: Agent UI (React dashboard) → Kong API Gateway (Kong OSS) → Agentic AI app, powered by LangGraph multi-agent orchestration, scheduler, and chat agent.
 - **RAG Pipeline**: Kong AI Gateway → Embeddings + Redis VectorDB → LLMs (Sentence transformers + Groq llama, gpt-oss).
@@ -60,7 +60,7 @@ The solution is organized into two major components: the **Agentic AI Applicatio
 
 The detailed end-to-end architecture below shows the full request/response flow across the UI, Kong API Gateway, LangGraph + Flask backend agents, Kong AI Gateway, vector database, and LLM providers.
 
-![Complete Architecture](images/Complete Architecture.jpg)
+![Complete Architecture](images/Complete_Architecture.jpg)
 
 ### Architecture Flow Summary
 
